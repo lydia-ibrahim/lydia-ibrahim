@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lydia-ibrahim
-- ♟️ I'm a Copywriter at Chess.com
-- ✍️ I've worked on campaigns with Duolingo, Nike, and more
 - 💞️ I’m a student on Code First Girl's Full Stack Degree
+- ♟️ I'm a full-time Copywriter at Chess.com
+- ✍️ I've worked on campaigns with Duolingo, Nike, and more
 - 🌿 I have an MSc in Climate Change: Environment, Science, and Policy
 - 👀 I’m interested in sustainability, gaming, and marketing
 
